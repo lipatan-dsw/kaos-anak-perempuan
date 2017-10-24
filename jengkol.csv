@@ -1,5 +1,5 @@
-title,permalink,body,published_at,filter,categories,tags,jenis,brand,description,image,product,price,sku,kondisi
-Jual Kaos Anak Perempuan - CPS 517 Murah,kaos-anak-perempuan-cps-517,"
+title,permalink,body,published_at,filter,categories,tags,jenis,brand,description,image,image1,image2,image3,image4,image5,product,price,hargajual,profit,sku,kondisi
+Jual Kaos / T-Shirt Distro Kasual Anak Perempuan - CPS 519 Murah,kaos-t-shirt-distro-kasual-anak-perempuan-cps-519,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -24,6 +24,7 @@ Jual Kaos Anak Perempuan - CPS 517 Murah,kaos-anak-perempuan-cps-517,"
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -46,7 +47,7 @@ Jual Kaos Anak Perempuan - CPS 517 Murah,kaos-anak-perempuan-cps-517,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Kaos Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Kaos Anak Perempuan - CPS 517 dengan bahan Cotton ini dijamin awet.<br/>Kode : CPS 517<br/>Warna : BIRU<br/>Bahan : Cotton<br/>Ukuran : 2~4~6~8 Tahun<br/>Berat : 0.35 kg<br>
+         <p>Kaos / T-Shirt Distro Kasual Anak Perempuan - CPS 519 adalah salah satu produk merek Catenzo Junior. Produk fashion anak handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk anak Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Kaos Anak Perempuan ini terbuat dari bahan COTTON.<br/>Kode : CPS 519<br/>Warna : PINK<br/>Bahan : COTTON<br/>Ukuran : 2 - 8<br/>Berat : 0.6 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -61,8 +62,8 @@ Jual Kaos Anak Perempuan - CPS 517 Murah,kaos-anak-perempuan-cps-517,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-24,html,kaos-anak-perempuan,catenzo-junior,kaos-anak-perempuan,catenzo-junior,"Kaos Anak Perempuan Bahan Cotton, Ukuran 2~4~6~8 Tahun, Warna BIRU",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/342-cps-517.jpg,Kaos Anak Perempuan - CPS 517,Rp 69.400,CPS 517,Baru
-Jual Kaos Anak Perempuan - CPS 514 Murah,kaos-anak-perempuan-cps-514,"
+     </div><!--/category-tab-->",2017-10-18,html,kaos-anak-perempuan,catenzo-junior,kaos-anak-perempuan,catenzo-junior,"Kaos Anak Perempuan Bahan COTTON, Ukuran 2 - 8, Warna PINK",https://images.lipatan.com/katalog-catenzo-junior-2017-2/foto-produk-satuan/307-cps-519.jpg,/,/,/,/,/,Kaos / T-Shirt Distro Kasual Anak Perempuan - CPS 519,Rp 69.400,Rp 81.900,Rp 12.500,CPS 519,Baru
+Jual Kaos / T-Shirt Distro Kasual Anak Perempuan - CPS 522 Murah,kaos-t-shirt-distro-kasual-anak-perempuan-cps-522,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -87,6 +88,7 @@ Jual Kaos Anak Perempuan - CPS 514 Murah,kaos-anak-perempuan-cps-514,"
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -109,7 +111,7 @@ Jual Kaos Anak Perempuan - CPS 514 Murah,kaos-anak-perempuan-cps-514,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Kaos Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Kaos Anak Perempuan - CPS 514 dengan bahan Cotton ini dijamin awet.<br/>Kode : CPS 514<br/>Warna : PUTIH<br/>Bahan : Cotton<br/>Ukuran : 2~4~6~8 Tahun<br/>Berat : 0.35 kg<br>
+         <p>Kaos / T-Shirt Distro Kasual Anak Perempuan - CPS 522 adalah salah satu produk merek Catenzo Junior. Produk fashion anak handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk anak Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Kaos Anak Perempuan ini terbuat dari bahan COTTON.<br/>Kode : CPS 522<br/>Warna : PUTIH<br/>Bahan : COTTON<br/>Ukuran : 2 - 8<br/>Berat : 0.6 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -124,8 +126,8 @@ Jual Kaos Anak Perempuan - CPS 514 Murah,kaos-anak-perempuan-cps-514,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-24,html,kaos-anak-perempuan,catenzo-junior,kaos-anak-perempuan,catenzo-junior,"Kaos Anak Perempuan Bahan Cotton, Ukuran 2~4~6~8 Tahun, Warna PUTIH",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/343-cps-514.jpg,Kaos Anak Perempuan - CPS 514,Rp 69.400,CPS 514,Baru
-Jual Kaos Anak Perempuan - CPS 516 Murah,kaos-anak-perempuan-cps-516,"
+     </div><!--/category-tab-->",2017-10-18,html,kaos-anak-perempuan,catenzo-junior,kaos-anak-perempuan,catenzo-junior,"Kaos Anak Perempuan Bahan COTTON, Ukuran 2 - 8, Warna PUTIH",https://images.lipatan.com/katalog-catenzo-junior-2017-2/foto-produk-satuan/308-cps-522.jpg,/,/,/,/,/,Kaos / T-Shirt Distro Kasual Anak Perempuan - CPS 522,Rp 69.400,Rp 81.900,Rp 12.500,CPS 522,Baru
+Jual Kaos / T-Shirt Distro Kasual Anak Perempuan - CPS 518 Murah,kaos-t-shirt-distro-kasual-anak-perempuan-cps-518,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -150,6 +152,7 @@ Jual Kaos Anak Perempuan - CPS 516 Murah,kaos-anak-perempuan-cps-516,"
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -172,7 +175,7 @@ Jual Kaos Anak Perempuan - CPS 516 Murah,kaos-anak-perempuan-cps-516,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Kaos Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Kaos Anak Perempuan - CPS 516 dengan bahan Cotton ini dijamin awet.<br/>Kode : CPS 516<br/>Warna : COKLAT<br/>Bahan : Cotton<br/>Ukuran : 2~4~6~8 Tahun<br/>Berat : 0.35 kg<br>
+         <p>Kaos / T-Shirt Distro Kasual Anak Perempuan - CPS 518 adalah salah satu produk merek Catenzo Junior. Produk fashion anak handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk anak Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Kaos Anak Perempuan ini terbuat dari bahan COTTON.<br/>Kode : CPS 518<br/>Warna : PUTIH<br/>Bahan : COTTON<br/>Ukuran : 2 - 8<br/>Berat : 0.6 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -187,8 +190,8 @@ Jual Kaos Anak Perempuan - CPS 516 Murah,kaos-anak-perempuan-cps-516,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-24,html,kaos-anak-perempuan,catenzo-junior,kaos-anak-perempuan,catenzo-junior,"Kaos Anak Perempuan Bahan Cotton, Ukuran 2~4~6~8 Tahun, Warna COKLAT",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/344-cps-516.jpg,Kaos Anak Perempuan - CPS 516,Rp 69.400,CPS 516,Baru
-Jual Kaos Anak Perempuan - CPS 513 Murah,kaos-anak-perempuan-cps-513,"
+     </div><!--/category-tab-->",2017-10-18,html,kaos-anak-perempuan,catenzo-junior,kaos-anak-perempuan,catenzo-junior,"Kaos Anak Perempuan Bahan COTTON, Ukuran 2 - 8, Warna PUTIH",https://images.lipatan.com/katalog-catenzo-junior-2017-2/foto-produk-satuan/309-cps-518.jpg,/,/,/,/,/,Kaos / T-Shirt Distro Kasual Anak Perempuan - CPS 518,Rp 69.400,Rp 81.900,Rp 12.500,CPS 518,Baru
+Jual Kaos / T-Shirt Distro Kasual Anak Perempuan - CPS 520 Murah,kaos-t-shirt-distro-kasual-anak-perempuan-cps-520,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -213,6 +216,7 @@ Jual Kaos Anak Perempuan - CPS 513 Murah,kaos-anak-perempuan-cps-513,"
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -235,7 +239,7 @@ Jual Kaos Anak Perempuan - CPS 513 Murah,kaos-anak-perempuan-cps-513,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Kaos Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Kaos Anak Perempuan - CPS 513 dengan bahan Cotton ini dijamin awet.<br/>Kode : CPS 513<br/>Warna : KUNING<br/>Bahan : Cotton<br/>Ukuran : 2~4~6~8 Tahun<br/>Berat : 0.35 kg<br>
+         <p>Kaos / T-Shirt Distro Kasual Anak Perempuan - CPS 520 adalah salah satu produk merek Catenzo Junior. Produk fashion anak handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk anak Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Kaos Anak Perempuan ini terbuat dari bahan COMBAD.<br/>Kode : CPS 520<br/>Warna : ABU MISTY<br/>Bahan : COMBAD<br/>Ukuran : 2 - 8<br/>Berat : 0.6 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -250,8 +254,8 @@ Jual Kaos Anak Perempuan - CPS 513 Murah,kaos-anak-perempuan-cps-513,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-24,html,kaos-anak-perempuan,catenzo-junior,kaos-anak-perempuan,catenzo-junior,"Kaos Anak Perempuan Bahan Cotton, Ukuran 2~4~6~8 Tahun, Warna KUNING",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/345-cps-513.jpg,Kaos Anak Perempuan - CPS 513,Rp 69.400,CPS 513,Baru
-Jual Kaos Anak Perempuan - CPS 518 Murah,kaos-anak-perempuan-cps-518,"
+     </div><!--/category-tab-->",2017-10-18,html,kaos-anak-perempuan,catenzo-junior,kaos-anak-perempuan,catenzo-junior,"Kaos Anak Perempuan Bahan COMBAD, Ukuran 2 - 8, Warna ABU MISTY",https://images.lipatan.com/katalog-catenzo-junior-2017-2/foto-produk-satuan/310-cps-520.jpg,/,/,/,/,/,Kaos / T-Shirt Distro Kasual Anak Perempuan - CPS 520,Rp 69.400,Rp 81.900,Rp 12.500,CPS 520,Baru
+Jual Kaos / T-Shirt Distro Kasual Anak Perempuan - CPS 521 Murah,kaos-t-shirt-distro-kasual-anak-perempuan-cps-521,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -276,6 +280,7 @@ Jual Kaos Anak Perempuan - CPS 518 Murah,kaos-anak-perempuan-cps-518,"
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -298,7 +303,7 @@ Jual Kaos Anak Perempuan - CPS 518 Murah,kaos-anak-perempuan-cps-518,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Kaos Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Kaos Anak Perempuan - CPS 518 dengan bahan Cotton ini dijamin awet.<br/>Kode : CPS 518<br/>Warna : PUTIH<br/>Bahan : Cotton<br/>Ukuran : 2~4~6~8 Tahun<br/>Berat : 0.35 kg<br>
+         <p>Kaos / T-Shirt Distro Kasual Anak Perempuan - CPS 521 adalah salah satu produk merek Catenzo Junior. Produk fashion anak handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk anak Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Kaos Anak Perempuan ini terbuat dari bahan COMBAD.<br/>Kode : CPS 521<br/>Warna : KUNING<br/>Bahan : COMBAD<br/>Ukuran : 2 - 8<br/>Berat : 0.6 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -313,256 +318,4 @@ Jual Kaos Anak Perempuan - CPS 518 Murah,kaos-anak-perempuan-cps-518,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-24,html,kaos-anak-perempuan,catenzo-junior,kaos-anak-perempuan,catenzo-junior,"Kaos Anak Perempuan Bahan Cotton, Ukuran 2~4~6~8 Tahun, Warna PUTIH",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/346-cps-518.jpg,Kaos Anak Perempuan - CPS 518,Rp 69.400,CPS 518,Baru
-Jual Kaos Anak Perempuan - CPS 519 Murah,kaos-anak-perempuan-cps-519,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Kaos Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Kaos Anak Perempuan - CPS 519 dengan bahan Cotton ini dijamin awet.<br/>Kode : CPS 519<br/>Warna : PINK<br/>Bahan : Cotton<br/>Ukuran : 2~4~6~8 Tahun<br/>Berat : 0.35 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         Gudang : WRH-1<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-08-24,html,kaos-anak-perempuan,catenzo-junior,kaos-anak-perempuan,catenzo-junior,"Kaos Anak Perempuan Bahan Cotton, Ukuran 2~4~6~8 Tahun, Warna PINK",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/347-cps-519.jpg,Kaos Anak Perempuan - CPS 519,Rp 69.400,CPS 519,Baru
-Jual Kaos Anak Perempuan - CZM 164 Murah,kaos-anak-perempuan-czm-164,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Kaos Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Kaos Anak Perempuan - CZM 164 dengan bahan Rajut ini dijamin awet.<br/>Kode : CZM 164<br/>Warna : SALEM<br/>Bahan : Rajut<br/>Ukuran : All Size (1 Ukuran)<br/>Berat : 0.35 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         Gudang : WRH-1<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-08-24,html,kaos-anak-perempuan,catenzo-junior,kaos-anak-perempuan,catenzo-junior,"Kaos Anak Perempuan Bahan Rajut, Ukuran All Size (1 Ukuran), Warna SALEM",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/348-czm-164.jpg,Kaos Anak Perempuan - CZM 164,Rp 73.900,CZM 164,Baru
-Jual Kaos Anak Perempuan - CPS 515 Murah,kaos-anak-perempuan-cps-515,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Kaos Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Kaos Anak Perempuan - CPS 515 dengan bahan Cotton ini dijamin awet.<br/>Kode : CPS 515<br/>Warna : HITAM<br/>Bahan : Cotton<br/>Ukuran : 2~4~6~8 Tahun<br/>Berat : 0.35 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         Gudang : WRH-1<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-08-24,html,kaos-anak-perempuan,catenzo-junior,kaos-anak-perempuan,catenzo-junior,"Kaos Anak Perempuan Bahan Cotton, Ukuran 2~4~6~8 Tahun, Warna HITAM",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/349-cps-515.jpg,Kaos Anak Perempuan - CPS 515,Rp 69.400,CPS 515,Baru
-Jual Kaos Anak Perempuan - CZM 167 Murah,kaos-anak-perempuan-czm-167,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Kaos Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Kaos Anak Perempuan - CZM 167 dengan bahan Rajut ini dijamin awet.<br/>Kode : CZM 167<br/>Warna : HITAM KOMBINASI<br/>Bahan : Rajut<br/>Ukuran : All Size (1 Ukuran)<br/>Berat : 0.35 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         Gudang : WRH-1<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-08-24,html,kaos-anak-perempuan,catenzo-junior,kaos-anak-perempuan,catenzo-junior,"Kaos Anak Perempuan Bahan Rajut, Ukuran All Size (1 Ukuran), Warna HITAM KOMBINASI",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/350-czm-167.jpg,Kaos Anak Perempuan - CZM 167,Rp 66.400,CZM 167,Baru
+     </div><!--/category-tab-->",2017-10-18,html,kaos-anak-perempuan,catenzo-junior,kaos-anak-perempuan,catenzo-junior,"Kaos Anak Perempuan Bahan COMBAD, Ukuran 2 - 8, Warna KUNING",https://images.lipatan.com/katalog-catenzo-junior-2017-2/foto-produk-satuan/311-cps-521.jpg,/,/,/,/,/,Kaos / T-Shirt Distro Kasual Anak Perempuan - CPS 521,Rp 69.400,Rp 81.900,Rp 12.500,CPS 521,Baru
